@@ -1,6 +1,6 @@
 # Olá, eu sou a Juliana Saunders! 👋
 
-Eu sou uma Desenvolvedora Front-end focada na criação de aplicações web responsivas, intuitivas e modernas.
+Sou uma Desenvolvedora Front-end focada na criação de aplicações web responsivas, intuitivas e modernas.
 
 🌱 **Tecnologias e Ferramentas:**
 
