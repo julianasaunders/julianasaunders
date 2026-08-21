@@ -1,8 +1,8 @@
-# Hi there, I'm Juliana Saunders! 👋
+# Olá, eu sou a Juliana Saunders! 👋
 
-Hi, my name is Juliana Saunders and I'm a Front-end Developer focused on creating responsive, intuitive, and modern web applications.
+Eu sou uma Desenvolvedora Front-end focada na criação de aplicações web responsivas, intuitivas e modernas.
 
-🌱 **Technologies & Tools:**
+🌱 **Tecnologias e Ferramentas:**
 
 * **HTML5 / CSS3**
 * **JavaScript**
