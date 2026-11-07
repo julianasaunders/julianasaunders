@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/gatinhos-banner.svg" alt="Gatinhos em pixel art 8-bit dormindo e sentados sob um céu roxo estrelado" width="900">
+</p>
+
 # Olá, eu sou a Juliana Saunders! 👋
 
 Sou uma Desenvolvedora Front-end focada na criação de aplicações web responsivas, intuitivas e modernas.
