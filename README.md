@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/gatinhos-banner.svg" alt="Gatinhos em pixel art 8-bit dormindo e sentados sob um céu roxo estrelado" width="900">
+  <img src="assets/floresta-magica.svg" alt="Floresta mágica em pixel art 8-bit animada, com gatinhos, bruxas voando em vassouras e um caldeirão" width="900">
 </p>
 
 # Olá, eu sou a Juliana Saunders! 👋
