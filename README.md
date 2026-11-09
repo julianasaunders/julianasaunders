@@ -6,7 +6,7 @@
 
 **Olá, eu sou a Juliana Saunders!** ⋆.˚ ☾⭒.˚
 
-Sou uma Desenvolvedora Front-end focada na criação de aplicações web responsivas, intuitivas e modernas.
+Sou estudante de Análise e Desenvolvimento de Sistemas, gosto da área de Design e Organização de Projetos.
 
 <img src="assets/divisor-floresta.svg" alt="" width="900">
 
