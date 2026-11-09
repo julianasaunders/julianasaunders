@@ -1,22 +1,35 @@
 <p align="center">
-  <img src="assets/floresta-magica.svg" alt="Floresta mágica em pixel art 8-bit animada, com gatinhos, bruxas voando em vassouras e um caldeirão" width="900">
+  <a href="assets/floresta-magica.svg">
+    <img src="assets/floresta-magica.svg" alt="Floresta mágica em pixel art 8-bit animada, com gatinhos, bruxas voando em vassouras e um caldeirão" width="900">
+  </a>
 </p>
 
-# Olá, eu sou a Juliana Saunders! 👋
+**Olá, eu sou a Juliana Saunders!** ⋆.˚ ☾⭒.˚
 
 Sou uma Desenvolvedora Front-end focada na criação de aplicações web responsivas, intuitivas e modernas.
 
----
+<img src="assets/divisor-floresta.svg" alt="" width="900">
 
-## 🌱 Tecnologias e Ferramentas
+<b>Tecnologias e Ferramentas</b> 🐈‍⬛
 
-| Área | Tecnologias |
-|---|---|
-| **Front-end** | HTML5, CSS3, JavaScript |
-| **Back-end / Runtime** | Node.js, Express |
-| **Linguagens** | C, C++, Python |
-| **Engenharia de Software** | Levantamento de requisitos, prototipação e diagramas de casos de uso (UML) |
-| **Sistemas e Infraestrutura** | Git e GitHub, Linux, VirtualBox, deploy no Render |
-| **Automação** | PowerShell, Bash |
+<b>Front-end</b>
 
----
+<img src="assets/badges/front-end.svg" alt="HTML5, CSS3, JavaScript">
+
+<b>Back-end / Runtime</b>
+
+<img src="assets/badges/back-end.svg" alt="Node.js, Express">
+
+<b>Linguagens</b>
+
+<img src="assets/badges/linguagens.svg" alt="C, C++, Python">
+
+<b>Sistemas e Infraestrutura</b>
+
+<img src="assets/badges/sistemas.svg" alt="Git, GitHub, Linux, VirtualBox">
+
+<b>Automação</b>
+
+<img src="assets/badges/automacao.svg" alt="PowerShell, Bash">
+
+<img src="assets/divisor-floresta.svg" alt="" width="900">
